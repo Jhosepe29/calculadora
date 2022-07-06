@@ -1,11 +1,11 @@
 # Calculadora
 
- -Datos Técnicos
+ - Datos Técnicos
  
  Java JDK 18
  Intellij Ultimate
 
--Descripción
+- Descripción
 
  Es una calculadora por consola desarrollada en java que le permite a los usuarios realizar las
  Operaciones de sumar, restar, multiplicar, dividir y modulo. 
@@ -19,7 +19,7 @@
  Operaciones que no sean conmutativas como la división y el módulo pedirán el numerador y el denominador.
  El programa se ejecutara hasta que el usuario ingrese en el menú el número 6.
 
- -Soporte
+ - Soporte
  
  sebastian Peña
  zebaxxp@gmail.com 
